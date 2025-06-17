@@ -17,7 +17,7 @@ A responsive and user-friendly student registration form built with **React** an
 
 ## 📸 Preview
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://github.com/arrysoni/student-registration-form/blob/main/src/components/images/Screenshot%202025-06-17%20at%203.31.27%E2%80%AFPM.png)
 
 > Replace this with an actual screenshot from your app.
 
